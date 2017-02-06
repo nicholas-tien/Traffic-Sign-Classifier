@@ -1,6 +1,6 @@
 ## Project: Build a Traffic Sign Recognition Program
 
-In this project, a CNN model is trained to recognize traffic signs.The training data are natural images of German traffic sign .It can be downloade at[German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
+This project is from udacity self-driving car degree.The aim is to train a CNN model to recognize traffic signs.The training data are natural images of German traffic sign .It can be downloade at[German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
 ### Dependencies
 1.Tensorflow
