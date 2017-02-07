@@ -4,7 +4,9 @@ This project is from udacity self-driving car degree.The aim is to train a CNN m
 
 ### Dependencies
 1.Tensorflow 
+
 2.OpenCV 
+
 3.scikit-learn 
 
 ### Dataset
