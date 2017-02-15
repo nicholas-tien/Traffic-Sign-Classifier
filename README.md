@@ -16,4 +16,4 @@ Pick some pics in the test dataset and test the trained model on them.
 
 ![Aaron Swartz](https://github.com/nicholas-tien/Traffic-Sign-Classifier/blob/master/figure_3.png?raw=true)
 
-There are 8 traffic sign pics.7 right.1 wrong.
+There are 8 traffic sign pics.7 right.1 wrong.If do some data augumentation or add more epoches,the accuracy may improve a little.
